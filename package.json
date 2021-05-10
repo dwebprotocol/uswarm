@@ -1,6 +1,6 @@
 {
   "name": "@uswarm/core",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "\"Store identities and other information on dWeb's DHT\"",
   "main": "index.js",
   "scripts": {
