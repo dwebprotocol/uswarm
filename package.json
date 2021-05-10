@@ -4,7 +4,7 @@
   "description": "\"Store identities and other information on dWeb's DHT\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "protobuf": "protocol-buffers schema.proto -o messages.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,7 @@
   "dependencies": {
     "@dswarm/dht": "^1.0.1",
     "@dswarm/dwebsign": "^1.0.0",
+    "@dwebid/sign": "^1.0.0",
     "assert": "^2.0.0",
     "end-of-stream": "^1.4.4",
     "hashlru": "^2.3.0",
