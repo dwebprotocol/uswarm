@@ -1,9 +1,8 @@
 
-”
-schema.proto"ƒ
-Mutable
-username (Rusername
+k
+schema.proto"[
+Mutable
+box (Rbox
 	signature (R	signature
-dk (Rdk
-	publicKey (R	publicKey
-seq (Rseq
+dk (Rdk
+seq (Rseq

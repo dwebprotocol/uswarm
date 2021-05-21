@@ -1,6 +1,6 @@
 {
   "name": "@uswarm/core",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "\"Store identities and other information on dWeb's DHT\"",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,7 @@
   "dependencies": {
     "@dswarm/dht": "^1.0.1",
     "@dswarm/dwebsign": "^1.0.0",
-    "@dwebid/sign": "^1.0.0",
+    "@dwebid/sign": "^2.0.0",
     "assert": "^2.0.0",
     "end-of-stream": "^1.4.4",
     "hashlru": "^2.3.0",
